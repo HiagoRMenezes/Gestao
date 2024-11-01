@@ -1,0 +1,110 @@
+﻿@model Gestao.Models.Usuario
+
+<style>
+    body {
+        background-color: #f0f0f0; /* Cor de fundo neutra */
+        font-family: Arial, sans-serif;
+    }
+
+    .login-container {
+        width: 400px;
+        background-color: #ffffff; /* Cor de fundo da caixa de login */
+        padding: 40px;
+        border: 1px solid #cccccc;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin: 50px auto;
+    }
+
+    .container-titulo {
+        width: 450px;
+        padding: 20px;
+        margin: 4px auto;
+    }
+
+    .login-title {
+        background-color: #d1b3ff; /* Cor do título */
+        color: #000; /* Texto preto */
+        padding: 20px;
+        text-align: center;
+        border-radius: 10px 10px 0 0;
+        font-size: 24px;
+        font-weight: bold;
+        margin: 20px 8px -70px 10px; /* Para que o título se sobreponha à borda da caixa */
+    }
+
+    .login-form {
+        padding: 20px;
+    }
+
+        .login-form label {
+            display: block;
+            color: #333;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .login-form input[type="text"], .login-form input[type="password"] {
+            width: 100%;
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid #cccccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .login-form input[type="submit"] {
+            background-color: #d1b3ff; /* Cor do botão de login */
+            color: #000; /* Texto preto */
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+            .login-form input[type="submit"]:hover {
+                background-color: #b58cff; /* Cor do botão ao passar o mouse */
+            }
+
+    .esqueceu-senha {
+        margin-top: 10px;
+        font-size: 14px;
+        color: #666;
+    }
+
+    .Cadastro {
+        margin-top: 10px;
+        font-size: 14px;
+        color: #666;
+    }
+</style>
+
+<html>
+<body>
+    <div class="container-titulo">
+        <div class="login-title">Gestão</div>
+    </div>
+
+    <div class="login-container">
+        <div class="login-form">
+            <form asp-controller="Login" asp-action="Login" method="post">
+                <label for="Email">Email:</label>
+                <input type="text" id="Email" name="Email" asp-for="Email" placeholder="Digite seu Email" />
+                <br />
+                <label for="Senha">Senha:</label>
+                <input type="password" id="Senha" name="Senha" asp-for="Senha" placeholder="Digite sua senha" />
+                <br />
+                <input type="submit" value="Login" />
+                <div class="esqueceu-senha">
+                    <a asp-controller="EsqueciSenha" asp-action="Index">Esqueceu sua senha?</a>
+                </div>
+                <div class="Cadastro">
+                    <a asp-controller="Cadastro" asp-action="Index">Criar conta</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

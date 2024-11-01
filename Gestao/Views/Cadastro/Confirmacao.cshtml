@@ -1,0 +1,20 @@
+﻿@model Gestao.Models.Usuario
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Confirmação de Cadastro</title>
+    <style>
+        .container { width: 100%; max-width: 600px; margin: 50px auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h2 { text-align: center; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Cadastro Realizado com Sucesso</h2>
+        <p>Seu cadastro foi realizado com sucesso. Você já pode fazer login.</p>
+        <a href="@Url.Action("Index", "Login")">Ir para Login</a>
+    </div>
+</body>
+</html>

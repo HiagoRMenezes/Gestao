@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\cadastro\\confirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\cadastro\\confirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\esquecisenha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\esquecisenha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\esquecisenha\\enviaremail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\esquecisenha\\enviaremail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\controllers\\esquecisenhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\controllers\\esquecisenhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\data\\gestaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\data\\gestaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|c:\\users\\meu computador\\source\\repos\\gestao\\gestao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EC9970-2E22-46DD-BDC3-4392B6AD93DD}|Gestao\\Gestao.csproj|solutionrelative:gestao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 161,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:17:29.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:17:26.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:17:22.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:17:20.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:17:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Confirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Cadastro\\Confirmacao.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\Cadastro\\Confirmacao.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Cadastro\\Confirmacao.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\Cadastro\\Confirmacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T01:43:59.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Cadastro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\Cadastro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Cadastro\\Index.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\Cadastro\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T01:42:41.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroController.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Controllers\\CadastroController.cs",
+              "RelativeDocumentMoniker": "Gestao\\Controllers\\CadastroController.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Controllers\\CadastroController.cs",
+              "RelativeToolTip": "Gestao\\Controllers\\CadastroController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:40:58.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\EsqueciSenha\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\EsqueciSenha\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\EsqueciSenha\\Index.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\EsqueciSenha\\Index.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T00:24:03.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnviarEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\EsqueciSenha\\EnviarEmail.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\EsqueciSenha\\EnviarEmail.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\EsqueciSenha\\EnviarEmail.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\EsqueciSenha\\EnviarEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T00:49:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EsqueciSenhaController.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Controllers\\EsqueciSenhaController.cs",
+              "RelativeDocumentMoniker": "Gestao\\Controllers\\EsqueciSenhaController.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Controllers\\EsqueciSenhaController.cs",
+              "RelativeToolTip": "Gestao\\Controllers\\EsqueciSenhaController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:25:04.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T23:34:01.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GestaoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Data\\GestaoDbContext.cs",
+              "RelativeDocumentMoniker": "Gestao\\Data\\GestaoDbContext.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Data\\GestaoDbContext.cs",
+              "RelativeToolTip": "Gestao\\Data\\GestaoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:29:32.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Gestao\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Gestao\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:29:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Models\\usuarios.cs",
+              "RelativeDocumentMoniker": "Gestao\\Models\\usuarios.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Models\\usuarios.cs",
+              "RelativeToolTip": "Gestao\\Models\\usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:28:55.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Gestao\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Models\\Usuario.cs",
+              "RelativeToolTip": "Gestao\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:28:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestao\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\Gestao\\Gestao\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Gestao\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T23:25:22.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
